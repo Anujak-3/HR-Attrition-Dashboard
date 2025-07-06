@@ -29,10 +29,10 @@ The dashboard explores attrition patterns based on job roles, age, business trav
 ## 📊 Dashboard Screenshots
 
 ### 📍 General View
-![Dashboard Screenshot 1](screenshots/dashboard1.png)
+![Dashboard Screenshot 1](dashboard-general-view.png)
 
 ### 📍 Overtime Filtered View
-![Dashboard Screenshot 2](screenshots/dashboard2.png)
+![Dashboard Screenshot 2](dashboard-overtime-view.png)
 
 ---
 
